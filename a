@@ -1,0 +1,5 @@
+[33m2989705[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m made some changes
+[33mdb4c39b[m created some tests and added basic file input handling and console output handling for main function
+[33m5faa4de[m completed logic for ICM calculations
+[33m7abce2e[m completed recursive logic for icm calculator
+[33ma4afd70[m initial commit

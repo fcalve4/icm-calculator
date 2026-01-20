@@ -17,7 +17,7 @@ public class ICMCalculatorMain
 
 
     /**
-     * Main function
+     * Main function - ICMCalculatorMain.java <input.txt>
      * @param args
      */
     public static void main(String[] args) {  
