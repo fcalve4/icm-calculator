@@ -1,8 +1,15 @@
-<<<<<<< HEAD
-## ICM-Calculator
+# ICM Calculator
 
-# Basic tool for a player's equity in a poker tourmanet according to the Independent Chip Model
-=======
-# icm-calculator
-A ICM (Independent Chip Model) calculator to convert poker tournament chip stacks into payout equity. (created in java)
->>>>>>> bee7f2b00dd022a8bf63a24cc245ee1ee2f214c2
+A simple Java program that calculates poker tournament equity using the **Independent Chip Model (ICM)**.
+
+The program takes player chip stacks and a payout structure as input, then computes each player’s expected share of the prize pool based on proportional chip ownership and probabilistic eliminations.
+
+Input is provided via a text file, and results are printed to the console in stack order.
+
+## Command-Line Arguments
+
+The program expects **one command-line argument**: the input file path
+
+### Usage
+```bash
+java ICMCalculatorMain <input_file>
